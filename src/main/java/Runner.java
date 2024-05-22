@@ -7,7 +7,10 @@ public class Runner {
         System.out.println(
         );
 
+
         System.out.println(" cakısma ");
+
+        // cakısma
         System.out.println(" ");
 
     }
